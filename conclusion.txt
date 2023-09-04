@@ -1,0 +1,5 @@
+Conclusión 
+
+En esta práctica se desarrollo una pagina web con párrafos, títulos, imágenes y links de con hipervinculos.
+ 
+Con otras 3 paginas de información que su URL esta en una pagina principal. 
